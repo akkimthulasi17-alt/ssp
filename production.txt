@@ -53,7 +53,7 @@ spec:
 apivertion: v1
 kind: replicaset
 matadata:
-  name: tomcat-replicaset
+  name: tomcat-
 spec:
   replicas:6
   selector:
